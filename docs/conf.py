@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Sonde B&C'
+project = 'IonoPi'
 copyright = '2019, Ecometer'
 
 # The name of the Pygments (syntax highlighting) style to use.
